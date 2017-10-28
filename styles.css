@@ -1,0 +1,27 @@
+body{
+    background-image: url("background.jpg");
+    width:auto;
+    height:auto;
+}
+.main{
+    font-size: 20px;
+    color: white;
+    background-color: transparent;
+    outline:none;
+    border:none;
+    cursor:pointer;
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+button{
+    font-size: 20px;
+    color: white;
+    background-color: transparent;
+    outline:none;
+    border:none;
+    cursor:pointer;
+    margin-bottom:30px;
+}
+button:hover{
+    color: #bdbdbd;
+}
